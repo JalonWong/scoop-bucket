@@ -1,5 +1,5 @@
 {
-    "version": "1.4.0.3",
+    "version": "1.4.1",
     "description": "A C implementation of the Google Protocol Buffers data serialization format.",
     "homepage": "https://github.com/JalonWong/protobuf-c-win-bin",
     "license": "BSD-3-Clause",
@@ -8,8 +8,8 @@
     },
     "architecture": {
         "64bit": {
-            "url": "https://github.com/JalonWong/protobuf-c-win-bin/releases/download/v1.4.0.3/protobuf-c-win64.zip",
-            "hash": "5f910ebbd03f580b2bdb95b2bf95f27e29556783687a6a0a9ac97fd7a86d2244"
+            "url": "https://github.com/JalonWong/protobuf-c-win-bin/releases/download/v1.4.1/protobuf-c-win64.zip",
+            "hash": "48d36605770e466330ee6ecb7b34ce55de38190c542672428b02d1ab7a4260b3"
         }
     },
     "bin": "bin\\protoc-gen-c.exe",
